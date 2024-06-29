@@ -1,0 +1,1 @@
+This project aims to focus on detecting toxic comments posted in internet. The deep learning concept used is BiLTSM. The dataset is taken from Kaggle. 
